@@ -10,7 +10,7 @@ function UserDetail() {
     // Simulate a fetch call
     setTimeout(() => {
       const users=[
-        { id: 1, Name: 'Leanne Graham', Username:"Bret",Email:"Sincere@april.biz",Phone:12332,Website:"john.com" },
+        { id: 1, Name: 'Leanne Graham', Username:"Bret",Email:"Sincere@april.biz",Phone:"1-770-736-8031 x56442",Website:"john.com" },
         { id: 2, Name: 'Ervin Howell', Username:"Antonette",Email:"bran@122.ewe",Phone:12332,Website:"bran.com" },
         { id: 3, Name: 'Clementine Bauch', Username:"Samantha",Email:"Ram@122.wew",Phone:12332,Website:"Ram.com" },
         { id: 4, Name: 'Patricia Lebsack', Username:"Shyam",Email:"Shyam@122.www",Phone:12332,Website:"Shyam.com" },
